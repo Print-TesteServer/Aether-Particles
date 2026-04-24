@@ -1,6 +1,6 @@
 # Aether-Particles 🌌
 
-**Aether-Particles** é um motor de simulação de partículas de alto desempenho desenvolvido para microcontroladores (ESP32) utilizando o display **ILI9341**. O projeto combina física procedural, integração de hardware via protocolo SPI e interação em tempo real.
+**Aether-Particles** é um motor de simulação de partículas de alto desempenho desenvolvido para microcontroladores (ESP32) utilizando o display  LCD-TFT **ILI9341**. O projeto combina física procedural, integração de hardware via protocolo SPI e interação em tempo real.
 
 O nome remete ao "Quinto Elemento" (Éter), servindo como uma base modular para a criação de diversos efeitos elementais, como fogo, água, fumaça e plasma.
 
