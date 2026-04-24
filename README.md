@@ -4,6 +4,7 @@
 
 O nome remete ao "Quinto Elemento" (Éter), servindo como uma base modular para a criação de diversos efeitos elementais, como fogo, água, fumaça e plasma.
 
+![Animação do Fogo](data/Wokwi.gif)
 ---
 
 ## 🚀 Funcionalidades Atuais
